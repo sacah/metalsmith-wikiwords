@@ -1,0 +1,23 @@
+{
+  "name": "metalsmith-wikiwords",
+  "version": "0.0.1",
+  "description": "A Metalsmith plugin to like WikiWords to other pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sacah/metalsmith-wikiwords"
+  },
+  "keywords": [
+    "metalsmith",
+    "plugin",
+    "wikiwords"
+  ],
+  "author": "sacah <sacah@sacah.net> (http://www.sacah.net)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "2.x"
+  }
+}
